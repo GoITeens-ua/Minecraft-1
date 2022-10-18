@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Перші кроки в Minecraft Education](README.md)
+* [Перші побудови в Minecraft Education](README.md)
