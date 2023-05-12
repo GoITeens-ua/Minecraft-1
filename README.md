@@ -28,7 +28,7 @@
 
 ## **Якщо ви пропустили заняття**&#x20;
 
-Є **відеозапис** та **домашнє завдання** у **** [**Schoolodgy**](https://app.schoology.com/)****
+Є **відеозапис** та **домашнє завдання** у [**Schoolodgy**](https://app.schoology.com/)
 
 {% embed url="https://app.schoology.com/" %}
 
@@ -36,7 +36,51 @@
 
 ![](https://lh6.googleusercontent.com/-ZjiTEzdwVbT-QeQ53Gvf6NBSDMdeSM08k2bQrBZXidxl-kJgCAMmgMh4jGrF1Q1WS7mf-ce27tUmN-eI9Fl2BQfyER-Lacs3rzMFweqEFmVEhTFNQCvKiFbnCxmN\_wvyVvKHkav1r1GaFoSUNmjJoB5dA)
 
-****[**Інструкція до реєстрації у Schoology**](https://youtu.be/l98zdCJGcPY)****
+[**Інструкція до реєстрації у Schoology**](https://youtu.be/l98zdCJGcPY)
+
+## Для початку давайте познайомимося з проектами, які ви теж зможете зробити після нашого курсу🌟
+
+### 1. Місто для життя
+
+Проект, створений нашим студентом Данилой Остапчук
+
+{% hint style="info" %}
+Ідея: побудувати невелике місто, для життя і відпочинку туристів.&#x20;
+
+В місті є різні споруди: будинки, готель, магазин, вілли і фонтан. Студент намагався автоматизувати процес та не здійснювати будівництво споруд вручну.
+
+Для цього він написав кілька функцій для побудови будинків та фонтану, використовуючи знання та навички, здобуті на навчаннях по технічних скілах.
+
+Основне завдання його функцій — встановити блоки різних типів в координатах, які він розрахував.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Виконав: Данило Остапчук</p></figcaption></figure>
+
+#### Детальніше познайомитися з проектом можна[ тут](https://www.new.goiteens.club/projects/minecraft/) або [тут](https://drive.google.com/drive/folders/1UXrgOdQFCsa1gxviFmMcG9EjPyk06Qnj)
+
+### 2. Зоопарк
+
+Проект, створений нашим студентом Максимом Павленко (10 років)
+
+{% hint style="info" %}
+Ідея полягала в тому, що зоопарк повинен бути незвичним, тому студент побудував його у пустелі на скелі. Перед будинком побудовано фонтан. Далі йде сам зоопарк, а після нього — невеликий сад. Дах будинку зроблено з полублоків.
+
+Для того, щоб зробити цей проект, було використано наступні знання: побудова з використанням координатів, використання функцій, функції позиції.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>Виконав: Максим Павленко</p></figcaption></figure>
+
+#### Детальніше познайомитися з проектом можна [тут](https://drive.google.com/drive/folders/1h7V1V7j72TqYhCohQF\_JxgoQaWu1ghDD)
+
+Проект, створений нашим студентом Тарасом Максименко (9 років)
+
+{% hint style="info" %}
+Зоопарк вміщує шість кліток з тваринами, а саме: з пандами та з лисицями, з ведмедями та з грибними коровами, а також є клітки з бджолами та з вовками. Між клітками прокладені доріжки, також лавки для перепочинку і ліхтарі для освітлення уночі. Поряд з зоопарком є будинок доглядача тварин та ветеринара.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/Снимок экрана 2023-05-12 в 16.37.20.png" alt=""><figcaption><p>Виконав: Тарас Максименко</p></figcaption></figure>
+
+#### Детальніше познайомитися з проектом можна [тут](https://docs.google.com/presentation/d/1H9Z8N7R506\_CxPgxxlw-E4YNPtZ2R4tTARvOikPojY4/edit#slide=id.g75a63b5aab\_0\_0)
 
 ## Основні завдання
 
@@ -88,7 +132,7 @@
 | :-------: | :----: | :----: |
 | **\_.\_** | **..** | **\_** |
 
-![](https://lh5.googleusercontent.com/NteXgqDrkvgjBr4fDBLcSihUu8rgTzuFW1J-3UNQlKaGiZwtlF5tj\_0W2UjMBrXzZKzRai6m11xo55mPVdgJE2WFTKIOn7JQOwWwqyr4NzwHH6fcB4yCaJCqq9nGQftbJQqX9tfMafn50XRh9HwDYT6hun0yyCR-GVJy-PPbPSvFpcg1Zq2BmkfpMYRz)   ![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)    ****    ![](https://lh6.googleusercontent.com/fgKSEpPWQmNy-qZ0NeckgKLBHY6AHCHL9XGq1sT5ejBQ-8LKeFJkDNHezmqUsl-hLAzZi7VeEHvU3IGQCjOjd9R19lJWfBh3B34-VSILhF8\_ckUEAu4ixhXEiz7aireFlApjF5\_4TKCZQS1dqW9se6JgII1FHS3d3vHN9-qLrCdBYVFHXWH6nF9B0pKx)    ![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)    ![](https://lh6.googleusercontent.com/fgKSEpPWQmNy-qZ0NeckgKLBHY6AHCHL9XGq1sT5ejBQ-8LKeFJkDNHezmqUsl-hLAzZi7VeEHvU3IGQCjOjd9R19lJWfBh3B34-VSILhF8\_ckUEAu4ixhXEiz7aireFlApjF5\_4TKCZQS1dqW9se6JgII1FHS3d3vHN9-qLrCdBYVFHXWH6nF9B0pKx)   ![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)
+![](https://lh5.googleusercontent.com/NteXgqDrkvgjBr4fDBLcSihUu8rgTzuFW1J-3UNQlKaGiZwtlF5tj\_0W2UjMBrXzZKzRai6m11xo55mPVdgJE2WFTKIOn7JQOwWwqyr4NzwHH6fcB4yCaJCqq9nGQftbJQqX9tfMafn50XRh9HwDYT6hun0yyCR-GVJy-PPbPSvFpcg1Zq2BmkfpMYRz)   ![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)    ![](https://lh6.googleusercontent.com/fgKSEpPWQmNy-qZ0NeckgKLBHY6AHCHL9XGq1sT5ejBQ-8LKeFJkDNHezmqUsl-hLAzZi7VeEHvU3IGQCjOjd9R19lJWfBh3B34-VSILhF8\_ckUEAu4ixhXEiz7aireFlApjF5\_4TKCZQS1dqW9se6JgII1FHS3d3vHN9-qLrCdBYVFHXWH6nF9B0pKx)    ![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)    ![](https://lh6.googleusercontent.com/fgKSEpPWQmNy-qZ0NeckgKLBHY6AHCHL9XGq1sT5ejBQ-8LKeFJkDNHezmqUsl-hLAzZi7VeEHvU3IGQCjOjd9R19lJWfBh3B34-VSILhF8\_ckUEAu4ixhXEiz7aireFlApjF5\_4TKCZQS1dqW9se6JgII1FHS3d3vHN9-qLrCdBYVFHXWH6nF9B0pKx)   ![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)
 
 ### **Або через меню**
 
@@ -118,10 +162,10 @@
 
 ### Тире
 
-| **1) Створюємо функцію** | ![](<.gitbook/assets/image (18).png>) |
-| ------------------------ | ------------------------------------- |
-| **2) Даємо назву**       | ![](<.gitbook/assets/image (3).png>)  |
-| **3) Задаємо код**       | ![](<.gitbook/assets/image (12).png>) |
+| **1) Створюємо функцію** | ![](<.gitbook/assets/image (18).png>)     |
+| ------------------------ | ----------------------------------------- |
+| **2) Даємо назву**       | ![](<.gitbook/assets/image (3) (1).png>)  |
+| **3) Задаємо код**       | ![](<.gitbook/assets/image (12) (1).png>) |
 
 ### Крапка
 
@@ -149,7 +193,7 @@
 
 3\) Викликаємо створену програму (команда чату max).
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 Готово, ви чудові!
 
