@@ -92,110 +92,12 @@
 
 ### Прапор України
 
-|            |                                                                                                |
-| ---------- | ---------------------------------------------------------------------------------------------- |
 | Завдання:  | Використовуючи агента, побудувати блоки у вигляді прапору України з синього та жовтого кольору |
+| ---------- | ---------------------------------------------------------------------------------------------- |
 | Результат: | ![](.gitbook/assets/2.png)                                                                     |
 | Код:       | <img src=".gitbook/assets/1 (1).png" alt="" data-size="original">                              |
 
 Посилання на код: [https://makecode.com/\_WqdA5v10u5dj](https://makecode.com/\_WqdA5v10u5dj)
-
-{% hint style="success" %}
-Якщо ви впорались з усіма основними завданнями, перейдіть до додаткового. Його виконання дозволить вам вдосконалити набуті навички!
-{% endhint %}
-
-## Додаткове завдання
-
-Напишіть за допомогою азбуки Морзе своє ім'я.
-
-{% hint style="info" %}
-**Азбука Мо́рзе** — спосіб знакового кодування, представлення букв алфавіту, цифр, розділових знаків та інших символів послідовністю сигналів: довгих (тире) і коротких (точок). Була винайдена американцем Семюелем Фінлі Бриз **Морзе** у 1838 році.
-{% endhint %}
-
-| **Код Морзе англійською** | ![](<.gitbook/assets/image (16).png>) |
-| ------------------------- | ------------------------------------- |
-| **Код Морзе українською** | ![](<.gitbook/assets/image (9).png>)  |
-| **Код Морзе російською**  | ![](<.gitbook/assets/image (7).png>)  |
-
-### Пишемо КIТ азбукою Морзе
-
-| ![](https://lh5.googleusercontent.com/zSo0JaJRjLcVBKe6T4vGdIDmXUIAAjTSk-u-L4jJ8qODTRLfYkiQUDR3\_x-VdoV3OTWsDpLsZqR0OSLO3rbQzPys13TluvBK3RrZDnGtsb99lDTXFa-zR4-6Se2PHEpN84qbFJ2Ud\_NS9P616XJ2Y7eH0ldxPuRNhyXDfP6tU5346e-xzjrtLNlFTHVw)     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://lh5.googleusercontent.com/0Wqyc73MHHOOENGveAp1yOPjPVoSf3UJMqlC8nQOWrUyB-6Aikk5aQVKOUj0Z6xVlIbVx0EcUbfvEaB1bxf7d1ZRLD2Yn7jm3Yb79B3bI-OHJBtPhvX8Ggg4AKkcJlwFuZOMebULzDyIHxh6fAHJB\_ng3NeYbxgXszinxhKtPFPBUKtAj5XNL2SLUtKl)      |
-| ![](https://lh4.googleusercontent.com/sGTu\_mx\_GoawPBIdFJpSerxFIIpmOjPfbqpIep\_BTWCFTK8pWHTCRylEycrxvZu0aAG-tq2T\_rP-AAachXeHmc87bTuHyq92g63j-qdQRQPH1TWeYpJ00u47tam6olzC0-EWGXwO31CYdB7ZiOr0RzQjx\_OyEUYV\_LTgXvO3Rq6UGtSwZILBMPaoFvR4) |
-| ![](https://lh3.googleusercontent.com/wHtQOIOMuuSSjlwk863tRrvEqRS0WTa3ONdkd6JdGyYZgKXvJl7A68haIDyZ7YhC7iU5-7zEHZexpgcB6hTsxiXEHlmIqGFWDTzgmRjooPhZN7VrI5MCVQyvlkRwdLfsCTBLA0zVf2m\_Iq3Vs9iDwC1-7YCYbjEc4bZo9w64xvD-0Ok9qRziFA3JkzcH)      |
-| ![](https://lh3.googleusercontent.com/wHtQOIOMuuSSjlwk863tRrvEqRS0WTa3ONdkd6JdGyYZgKXvJl7A68haIDyZ7YhC7iU5-7zEHZexpgcB6hTsxiXEHlmIqGFWDTzgmRjooPhZN7VrI5MCVQyvlkRwdLfsCTBLA0zVf2m\_Iq3Vs9iDwC1-7YCYbjEc4bZo9w64xvD-0Ok9qRziFA3JkzcH)      |
-
-<figure><img src="https://lh3.googleusercontent.com/bk9LCeN-uYvb8RJk5Kvv2X_hGAMHVhzzU3fbQIMq69Jml9p1_AfdS71ZCxCjYa5yFE3XHnzB8HyZTt-QuGygkMMarClRmO7srJZHE3pxydZILF71bFH1NfkOPUah0JjCzJbM0klFkRSdVpCHZmD6-9GYbAPkzcaxuwNOXPs5TIeOMG0PcQfqVcWtcOmg" alt=""><figcaption></figcaption></figure>
-
-|     К     |    I   |    Т   |
-| :-------: | :----: | :----: |
-| **\_.\_** | **..** | **\_** |
-
-![](https://lh5.googleusercontent.com/NteXgqDrkvgjBr4fDBLcSihUu8rgTzuFW1J-3UNQlKaGiZwtlF5tj\_0W2UjMBrXzZKzRai6m11xo55mPVdgJE2WFTKIOn7JQOwWwqyr4NzwHH6fcB4yCaJCqq9nGQftbJQqX9tfMafn50XRh9HwDYT6hun0yyCR-GVJy-PPbPSvFpcg1Zq2BmkfpMYRz)   ![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)    ![](https://lh6.googleusercontent.com/fgKSEpPWQmNy-qZ0NeckgKLBHY6AHCHL9XGq1sT5ejBQ-8LKeFJkDNHezmqUsl-hLAzZi7VeEHvU3IGQCjOjd9R19lJWfBh3B34-VSILhF8\_ckUEAu4ixhXEiz7aireFlApjF5\_4TKCZQS1dqW9se6JgII1FHS3d3vHN9-qLrCdBYVFHXWH6nF9B0pKx)    ![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)![](https://lh6.googleusercontent.com/OTovKrhcnwkPlA\_H7ig7aZMzL\_QApB63AV-rN3x87lcr2b62wMnGjsOqs2TKUNiQ4uoOZavahTRp8bLSvUuwokDmKNt\_byE2X2C44EFuzJTSyKRtNSK8oJlqn0NEl26EME3AM9SG9T0A14EO1YKA3dWdpf4SI1IEp4xRM4KIj2NZ-1VB3A1rNen3jx4E)    ![](https://lh6.googleusercontent.com/fgKSEpPWQmNy-qZ0NeckgKLBHY6AHCHL9XGq1sT5ejBQ-8LKeFJkDNHezmqUsl-hLAzZi7VeEHvU3IGQCjOjd9R19lJWfBh3B34-VSILhF8\_ckUEAu4ixhXEiz7aireFlApjF5\_4TKCZQS1dqW9se6JgII1FHS3d3vHN9-qLrCdBYVFHXWH6nF9B0pKx)   ![](https://lh5.googleusercontent.com/DqVldLDffwViFyyyfgHz5OQyAgKtGMF8tBO\_4OHl0YMCAW9yT6LMCJXWk2bX\_nAVXRXF9Sd7pzJLiIsrphct3VDR0EX8qHGkcISkGSBIsLQNRU2YIbQRpHrJhlZpN1WBevwxT8jnqK60h1RpAaoFg3xFA71Cd2ZM8SluTegFWRSm1ozqfUR-V5-DI9CI)
-
-### **Або через меню**
-
-![](https://lh4.googleusercontent.com/x734-glQM\_kaz\_Zsm-sH0L1gpMjt7K7fgFvcbFa1QoQD8rAoU0FjjrO4UloYsT0Wigdfoq0Cge1x4drOen43ns1vb28xJvbKgVOR6clqndmXiqKIvRYxbxfAboT9aHNisKKxPpLR6M3JnzpmhUoCV9b-WGI9n1sYB9ZMfdl06Y2r92NLi9lbU5K8Of6j)
-
-![](https://lh3.googleusercontent.com/dH0AKSlO\_K-K7XhMDUrxgfsBoRdThG2xpLHR3tRQHdiuvC9iwrw3Xo-51-FpHSyHubfSH9oqgUyJ31gq3Tzfh2CjycWvUqdbAINSQ2GiKETlJKdDx490qXhvQYkEqIoEfmSG8Bm1Loc2FH8cJkcxxfIt5PWeZ0070c7Fj2XxLjN37-NUqwWWo1jREJX8)
-
-**Запускаємо КІТ**
-
-![](https://lh5.googleusercontent.com/\_va6KTDG00Tm6106ncP2nLCDRTblzkItL6xvpbRpkbowKuG\_jh0tQ5thj1UWWfWKOz\_Xh\_mDVdS9MEBgth3beHxHvnV\_M9BHXPqVxfhQa6c69lal0awLvP1iV3BsSg6jEOoX4WdPLtk8\_sb1DD1S\_i9q6YOv\_Q\_K50dAchvxJiJRKBv9ogXwVafWsq6g)
-
-## **Додаткове завдання**
-
-Напиши за допомогою азбуки Морзе своє ім'я.
-
-## Більш складний варіант
-
-### Команди чата
-
-| **Крапка**                           | ![](<.gitbook/assets/image (10).png>) |
-| ------------------------------------ | ------------------------------------- |
-| **Тире**                             | ![](<.gitbook/assets/image (27).png>) |
-| **Пробіл**                           | ![](<.gitbook/assets/image (11).png>) |
-| **Написання літер командами в чаті** | ![](<.gitbook/assets/image (14).png>) |
-
-### Функції
-
-### Тире
-
-| **1) Створюємо функцію** | ![](<.gitbook/assets/image (18).png>)     |
-| ------------------------ | ----------------------------------------- |
-| **2) Даємо назву**       | ![](<.gitbook/assets/image (3) (1).png>)  |
-| **3) Задаємо код**       | ![](<.gitbook/assets/image (12) (1).png>) |
-
-### Крапка
-
-| **1) Створюємо функцію** | ![](<.gitbook/assets/image (6).png>)  |
-| ------------------------ | ------------------------------------- |
-| **2) Даємо назву**       | ![](<.gitbook/assets/image (15).png>) |
-| **3) Задаємо код**       | ![](<.gitbook/assets/image (13).png>) |
-
-### Пробіл
-
-| **1) Створюємо функцію** | ![](<.gitbook/assets/image (22).png>) |
-| ------------------------ | ------------------------------------- |
-| **2) Даємо назву**       | ![](<.gitbook/assets/image (24).png>) |
-| **3) Задаємо код**       | ![](<.gitbook/assets/image (26).png>) |
-
-### Завдання і виконання команди
-
-1\) Створюємо команду чату та переносимо до неї блоки виклику функцій.
-
-![](<.gitbook/assets/image (28).png>)
-
-2\) Створюємо команду чату та переносимо до неї блоки виклику функцій.
-
-![](<.gitbook/assets/image (7) (1).png>)
-
-3\) Викликаємо створену програму (команда чату max).
-
-![](<.gitbook/assets/image (1) (1).png>)
-
-Готово, ви чудові!
 
 ## Самостійно
 
