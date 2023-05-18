@@ -109,7 +109,7 @@
 
 ![](https://lh4.googleusercontent.com/v5Qmv7XIBczQq4ChZN7fRN0gVlnOQ46gA8cXQfLOV9hi3nmJZSPZljJwDdjSL\_ehWVtb\_L0nu0Lmx4Y4jLcuwDp9ZmwFop1CE-vJVnkB8nAwIfPm3Z\_RZls287hw0oRcPA7V-R\_eWMfUt\_20XypAkx4G5VbeTzsJhPQlhbSUxQrtIO6LJTwWQpLa9wXN)
 
-![Підсумки заняття](.gitbook/assets/Minecraft.png)
+<figure><img src=".gitbook/assets/Frame 1875.png" alt=""><figcaption><p>Підсумки заняття</p></figcaption></figure>
 
 ## **Як завантажити свій код**
 
@@ -123,16 +123,6 @@
 ![](https://lh6.googleusercontent.com/BJQoLcfYAusm1azNb6bRzlUC6KZ\_Pa2J42D9J1aMUZ4ZLQI-UBT-KepnQF6NAUPyHvMO5JawpaVSZf9da0cC3G4euLBqZzzjPMn4sz8M6FTbB6jON2F0aJudu5rHbfSm8LvGot9gpPHiVj5ZNCvG1O2ARg)
 
 ![](https://lh6.googleusercontent.com/r4P6\_BJsdfCupbV3W3uOcq45VYaerCi1XRPzi-fjrL8ySU5VtF\_AxQP1Yql84Tsg-lP0Io7mfi7gMrl5ItT7i2iccZ4Vx29jx6QuzGRT-k46Ee-42nuh3Gm-mRR52Yv-0yIGmzrd7ca3K3FwY88dYwMMiA)
-
-## **Домашнє завдання**
-
-🏃‍♂️ Запрограмувати Агента, щоб він кодом зробив **заглибину у 4 блоки довжиною**&#x20;
-
-🛣 Кодом зробити **дорогу** з килимів довжиною у **22 блоки**&#x20;
-
-✅ Код опублікуйте в Schoolodgy як[ тут](https://youtu.be/KW4fCTlCnf8)
-
-🏋️‍♀️ **Додатково (за бажанням)**: побудувати кодом квітник у формі квадрату **розміром 5\*5 квітів**
 
 {% hint style="success" %}
 На наступному занятті на вас чекає ще більше інструментів у Minecraft!
