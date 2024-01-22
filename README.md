@@ -84,18 +84,11 @@
 
 ## Основні завдання
 
-| **Назва**     | **Лінія квітів**                                                                                   | **Лінія блоків**                                                                                                      |
-| ------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Завдання**  | <p>– 6 маків<br>– 10 бамбуків<br>– 4 саджанці дуба<br>– 7 блакитних волошок<br>– 3 папоротники</p> | <p>– 6 блоків скла<br>– 10 блоків вибухівки<br>– 4 блоки гарбуза<br>– 7 блоків білого бетону<br>– 3 блоки з цегли</p> |
-| **Код**       | ![](<.gitbook/assets/image (5).png>)                                                               |  ![](<.gitbook/assets/image (25).png>)                                                                                |
-| **Результат** | ![](<.gitbook/assets/image (4).png>)                                                               | ![](<.gitbook/assets/image (21).png>)                                                                                 |
+<table data-header-hidden><thead><tr><th width="150"></th><th width="357"></th><th width="362"></th></tr></thead><tbody><tr><td><strong>Назва</strong></td><td><strong>Лінія квітів</strong></td><td><strong>Лінія блоків</strong></td></tr><tr><td><strong>Завдання</strong></td><td>– 6 маків<br>– 10 бамбуків<br>– 4 саджанці дуба<br>– 7 блакитних волошок<br>– 3 папоротники</td><td>– 6 блоків скла<br>– 10 блоків вибухівки<br>– 4 блоки гарбуза<br>– 7 блоків білого бетону<br>– 3 блоки з цегли</td></tr><tr><td><strong>Код</strong></td><td><img src=".gitbook/assets/image (5).png" alt=""></td><td> <img src=".gitbook/assets/image (25).png" alt=""></td></tr><tr><td><strong>Результат</strong></td><td><img src=".gitbook/assets/image (4).png" alt=""></td><td><img src=".gitbook/assets/image (21).png" alt=""></td></tr></tbody></table>
 
 ### Прапор України
 
-| Завдання:  | Використовуючи агента, побудувати блоки у вигляді прапору України з синього та жовтого кольору |
-| ---------- | ---------------------------------------------------------------------------------------------- |
-| Результат: | ![](.gitbook/assets/2.png)                                                                     |
-| Код:       | <img src=".gitbook/assets/1 (1).png" alt="" data-size="original">                              |
+<table data-header-hidden><thead><tr><th width="286"></th><th></th></tr></thead><tbody><tr><td>Завдання:</td><td>Використовуючи агента, побудувати блоки у вигляді прапору України з синього та жовтого кольору</td></tr><tr><td>Результат:</td><td><img src=".gitbook/assets/2.png" alt=""></td></tr><tr><td>Код:</td><td><img src=".gitbook/assets/1 (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
 Посилання на код: [https://makecode.com/\_WqdA5v10u5dj](https://makecode.com/\_WqdA5v10u5dj)
 
@@ -113,10 +106,7 @@
 
 ## **Як завантажити свій код**
 
-| 1. Поділитися                                                                                       | ![](.gitbook/assets/1.png)       |
-| --------------------------------------------------------------------------------------------------- | -------------------------------- |
-| <p>2. Пишемо назву для коду проєкту</p><p></p><p>3. Публікуємо в інтернеті</p>                      | ![](<.gitbook/assets/2 (2).png>) |
-| <p>4. Копіюємо посилання<br><br>Скопійоване посилання потрібно вставити в ДЗ як текстовий рядок</p> | ![](.gitbook/assets/3.png)       |
+<table data-header-hidden><thead><tr><th width="339"></th><th width="315"></th></tr></thead><tbody><tr><td>1. Поділитися</td><td><img src=".gitbook/assets/1.png" alt=""></td></tr><tr><td><p>2. Пишемо назву для коду проєкту</p><p></p><p>3. Публікуємо в інтернеті</p></td><td><img src=".gitbook/assets/2 (2).png" alt=""></td></tr><tr><td>4. Копіюємо посилання<br><br>Скопійоване посилання потрібно вставити в ДЗ як текстовий рядок</td><td><img src=".gitbook/assets/3.png" alt=""></td></tr></tbody></table>
 
 ## **Додати свій код у ДЗ**
 
